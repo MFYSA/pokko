@@ -255,6 +255,12 @@ https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="DISC",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 
+#xjadi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC EARTH" tvg-logo="https://static.epg.best/id/BBCEarth.id.png" group-title="KNOWLEDGE",BBC EARTH
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_dash_vmx/BBCEarth.mpd
+
 
 #movie
 
@@ -362,11 +368,8 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaworld" tvg-name="CINEMAWORD" tvg-logo="https://www.infotelevisi.com/asset/images/tv/Cinemaworld.jpg" group-title="MOVIES",CINEMAWORLD (Malay sub)
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#xjadi
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC EARTH" tvg-logo="https://static.epg.best/id/BBCEarth.id.png" group-title="KNOWLEDGE",BBC EARTH
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_dash_vmx/BBCEarth.mpd
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true" group-title="MOVIE", BAMBU
+https://bambu-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-xumo/CDN/1920x1080_5055600/chunklist.m3u8
 
 
 58 - MOVIES NOW
@@ -747,7 +750,11 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 
+
+
 176 - LOTUS MACAU
+
+
 
 
 #
@@ -783,7 +790,3 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2e
 http://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="KIDS",Baby First | HPlus
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true" group-title="MOVIE", BAMBU
-https://bambu-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-xumo/CDN/1920x1080_5055600/chunklist.m3u8
