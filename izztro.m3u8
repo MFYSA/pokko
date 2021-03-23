@@ -15,8 +15,7 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MY", TV3
-#https://fvtv2.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
-https://fvtv2.mywire.org/streams/dailymotion/ch_tv3.m3u8
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
@@ -275,27 +274,34 @@ http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="MOVIE",Red By HBO 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d5d045c59a90d7587d8d671b5f5aec4e7c
+http://fdtvapps.xyz/channel/red.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="MPD" tvg-logo="https://i.postimg.cc/Hx2xtJSy/cinemax.png" group-title="MOVIE", CINEMAX
+#EXTINF:-1 group-title="MPD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="MOVIE", CINEMAX
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="MOVIE", FOX (Malay sub)
-https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+#EXTINF:0 tvg-id= tvg-name= tvg-logo=https://i.dlpng.com/static/png/422751_preview.png group-title="MOVIES", STAR MOVIES HD
+http://rv.imax.re:80/307211117167/307211117167/78917
+http://iptvtree.net:8080/13354/27c12697/11511
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lRWMEvq.jpg"group-title="MOVIE", PARAMOUNT HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="foxlife" tvg-name="FOX LIFE" tvg-logo="https://static.epg.best/id/FoxLife.id.png" group-title="MOVIE, FOX LIFE (Malay sub)
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
+#EXTINF:-1 group-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="MOVIE", FOX HD (Viet sub)
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="MPD" tvg-logo="https://s26.postimg.cc/67sagi4nd/400x400_15fox_movies.jpg" group-title="MOVIE", FOX MOVIES (Malay sub)
-https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+#EXTINF:-1 tvg-id="foxlife" tvg-name="FOX LIFE" tvg-logo="https://static.epg.best/id/FoxLife.id.png" group-title="MOVIE, FOX LIFE (Viet sub)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 group-title="MPD" tvg-logo="https://s26.postimg.cc/67sagi4nd/400x400_15fox_movies.jpg" group-title="MOVIE", FOX MOVIES (Viet sub)
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -305,27 +311,27 @@ https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 group-title="MPD" tvg-logo="https://s26.postimg.cc/ajgw5ibk9/400x400_35fox_family_movies.jpg" group-title="MOVIE", FOX FAMILY
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_440.png" group-title="MOVIE", FOX CRIME (Malay sub)
+#EXTINF:-1 group-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_440.png" group-title="MOVIE", FOX CRIME (Viet sub)
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="MPD" tvg-logo="https://s29.postimg.cc/v23lwpn9j/warnertv.png" group-title="MOVIE", WARNER TV (Malay sub)
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#EXTINF:-1 group-title="MPD" tvg-logo="https://s29.postimg.cc/v23lwpn9j/warnertv.png" group-title="MOVIE", WARNER TV (Thai sub)
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="MOVIE", KIX
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="MOVIE", KIX (ASIA)
+http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="MOVIE", KIX (Malay sub)
-https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="AXN.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="MOVIE", AXN (Malay sub)
-https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:-1 tvg-id="AXN.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="MOVIE", AXN (Viet sub)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="304" tvg-id="Fli.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428153_ico.png" group-title="MOVIE", &FLIX
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
@@ -338,8 +344,8 @@ http://latvonlive.com:33612/Llanos1/1234/818
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="MOVIE", THRILL (Malay sub)
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="MOVIE", THRILL
+https://cdn6.goprimetime.info/feed/LC26/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -688,6 +694,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-name="305" tvg-id="CHV.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428309_ico.png" group-title="MY", CHANNEL V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+
+#EXTINF:-1 tvg-id=TBX.UK tvg-logo=http://static.epg.best/gb/TheBox.uk.png group-title="UK", The Box
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cxkpsjT/box.png" group-title="TV MUSIC", BOX HITS 
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
